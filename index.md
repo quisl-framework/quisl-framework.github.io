@@ -11,37 +11,25 @@ A project based in **_Quantum Computing_** and **_Quantum Information Science_**
 >
 > ~ _Seth Lloyd_
 
-This theme is designed for writing documentation websites instead of having large unmaintainable README files or several markdown files inside of a folder in a repository.
+This project is aimed to provide to the user a full experience in **_Quantum Computing_** and **_Quantum Information Science_**.
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
 
-## Installation
+## Download
 {:.mt-lg-0}
 
-This theme is designed to work both as a Gem or as a remote theme, meaning we officially support GitHub Pages.
+Not available yet.
 
-### Gem
+## Instalation
+{:.mt-lg-0}
 
-Add this line to your Jekyll site's Gemfile:
+Not available yet.
 
-```ruby
-gem "jekyll-docs-theme"
-```
+### Performance
+{:.mt-lg-0}
 
-And then enable and use the theme in your Jekyll site via its `_config.yml`.
-
-```yaml
-theme: jekyll-docs-theme
-```
-
-### GitHub Pages
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
-```
+Not available yet.
 
 </div>
 <div class="col-lg-6" markdown="1">
