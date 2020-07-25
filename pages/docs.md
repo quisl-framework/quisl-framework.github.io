@@ -1,6 +1,6 @@
 ---
 layout: page
-number: 1
-title: Introduction
+number: 3
+title: Docs
 description: ~
 ---

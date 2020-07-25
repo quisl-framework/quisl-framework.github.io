@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Documentation
+number: 2
+title: Getting Started
 description: ~
 ---

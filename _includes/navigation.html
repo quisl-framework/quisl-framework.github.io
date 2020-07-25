@@ -18,7 +18,7 @@
 
         <nav class="navbar-collapse collapse" role="navigation" id="navbarSupportedContent">
             <ul class="navbar-nav">
-                {% assign sorted_pages = site.pages | sort: "title" %}
+                {% assign sorted_pages = site.pages | sort: "number" %}
                 {% for p in sorted_pages %}
                     {% assign is_homepage = false %}
                     {% if p.homepage == true or p.isHome == true %}
