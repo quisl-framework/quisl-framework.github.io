@@ -77,7 +77,7 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
         
 * #### Quantum Applications
 
-    * Some **_Quantum Applications_**, are also approached through some examples and demonstrations, such as:
+    * Some **_Quantum Applications_**, are also approached, through some practical examples and demonstrations, such as:
 
         * ##### Quantum Image Processing
         
