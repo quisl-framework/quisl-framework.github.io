@@ -1,6 +1,6 @@
 ---
 layout: page
-number: 5
+number: 6
 title: Team
 description: ~
 ---
