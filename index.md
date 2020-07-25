@@ -2,7 +2,7 @@
 layout: full
 homepage: true
 disable_anchors: true
-description: If mediocrity had a Jekyll theme...
+description: A Java Library for Quantum Computing
 ---
 
 A Jekyll theme inspired by Bootstrap's official documentation theme from a few years back. This theme started off by stealing all of Bootstrap Docs' CSS and being used in [mistic100's theme](https://github.com/mistic100/jekyll-bootstrap-doc). This theme has since be rewritten from scratch and remains solely inspired by the original design.
