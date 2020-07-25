@@ -26,12 +26,12 @@ Not available yet.
 
 Not available yet.
 
-### Screenshots
+## Screenshots
 {:.mt-lg-0}
 
 Not available yet.
 
-### Performance
+## Performance
 {:.mt-lg-0}
 
 Not available yet.
