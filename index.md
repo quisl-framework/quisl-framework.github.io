@@ -36,6 +36,11 @@ Not available yet.
 
 Not available yet.
 
+## License
+{:.mt-lg-0}
+
+Not available yet.
+
 </div>
 <div class="col-lg-6" markdown="1">
 
