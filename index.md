@@ -65,7 +65,7 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
 * #### Quantum Algorithms
 
-    * Some **_Quantum Algorithms_**, are also available, such as, the following ones:
+    * Some **_Quantum Algorithms_**, are also available, such as, the following ones, among many others:
 
         * ##### Quantum Mapping
 
@@ -73,7 +73,17 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
         * ##### Quantum Factorisation
 
-        * ##### Quantum Cryptography &amp; Quantum Key Distributions
+        * ##### Quantum Cryptography
+        
+* #### Quantum Applications
+
+    * Some **_Quantum Applications_**, are also approached through some examples and demonstrations, such as:
+
+        * ##### Quantum Image Processing
+        
+        * ##### Quantum Networks/Communications
+        
+        * ##### Quantum Game Theory
 
 </div>
 </div>
