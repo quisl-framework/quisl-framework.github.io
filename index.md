@@ -71,6 +71,8 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
             * **_Grover's Algorithm_**
         
             * **_Quantum Counting's Algorithm_**
+        
+            * **_Quantum Random Number Generation_**
 
         * ##### Quantum Factorisation
         
