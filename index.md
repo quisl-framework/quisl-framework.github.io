@@ -11,7 +11,7 @@ A project based in **_Quantum Computing_** and **_Quantum Information Science_**
 >
 > ~ _Seth Lloyd_
 
-This project is aimed to provide to the user a full experience in **_Quantum Computing_** and **_Quantum Information Science_**.
+This project is aimed to provide to the user a full experience in **_Quantum Computing_** and **_Quantum Information Science_**, as also, all the features related to it.
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
