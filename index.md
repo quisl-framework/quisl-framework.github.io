@@ -49,7 +49,7 @@ remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
 ## Features
 {:.mt-lg-0}
 
-Several features are approached in this [**_Java_**] **_Library_** for **_Quantum Computing_** and **_Quantum Information Science_**, such as:
+Several features are approached in this [**_Java_**](https://www.java.com/) **_Library_** for **_Quantum Computing_** and **_Quantum Information Science_**, such as:
 
 * #### Quantum Operations/Logic Gates
 
