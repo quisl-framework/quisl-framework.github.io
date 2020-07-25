@@ -78,7 +78,7 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
         * ##### Post-Quantum Cryptography
 
-            * **_Lattice-Based Cryptography
+            * **_Lattice-Based Cryptography_**
 
             * **_Hash-Based Cryptography_**
 
