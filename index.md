@@ -61,12 +61,70 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
     * Some **_Quantum Algorithms_**, are also available, such as, the following ones, among many others:
 
         * ##### Quantum Mapping
+        
+            * Deutsch–Jozsa Algorithm
+            
+            * Simon's Algorithm
 
         * ##### Quantum Optimisation
+        
+            * Grover's Algorithm
 
         * ##### Quantum Factorisation
+        
+            * Shor's Algorithm
 
+        * ##### Post-Quantum Cryptography
+
+            * Lattice-Based Cryptography
+
+            * Hash-Based Cryptography
+
+            * Code-Based Cryptography
+
+            * Multivariate Cryptography
+            
         * ##### Quantum Cryptography
+        
+            * **_QKDs (Quantum Key Distributions)_**:
+            
+                * **_Polarization-Based_**:
+                
+                    * BB84 Protocol
+                    
+                    * T12 Protocol
+                    
+                    * Decoy State Protocol
+                    
+                    * SARG04 Protocol
+                    
+                    * Six-State Protocol
+                    
+                    * B92 Protocol
+            
+                * **_Entanglement-Based_**:
+                
+                    * E91 Protocol
+                    
+                    * BBM92 Protocol
+            
+                * **_Others_**:
+                
+                    * MSZ96 Protocol
+                    
+                    * COW Protocol
+                    
+                    * DPS Protocol
+                    
+                    * KMB09 Protocol
+                    
+                    * HDQKD Protocol (High-Dimensional Quantum Key Distribution)
+                    
+            * **_Full Quantum Cryptography Protocols_**:
+            
+                * **_Three-Stage Quantum Cryptography Protocol_**:
+                
+        * ##### Quantum Solving
         
 * #### Quantum Applications
 
@@ -77,6 +135,10 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
         * ##### Quantum Networks/Communications
         
         * ##### Quantum Game Theory
+        
+        * ##### Quantum Artificial Intelligence
+        
+        * ##### Quantum Machine Learning
 
 </div>
 </div>
