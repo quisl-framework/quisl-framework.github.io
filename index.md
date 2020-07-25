@@ -65,7 +65,7 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
 * #### Quantum Algorithms
 
-    * Some **_Quantum Algorithms_**, are also available, such the following ones:
+    * Some **_Quantum Algorithms_**, are also available, such as the following ones:
 
         * ##### Quantum Mapping
 
