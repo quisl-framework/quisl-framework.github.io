@@ -7,9 +7,9 @@ description: A Java Library for Quantum Computing and Quantum Information Scienc
 
 A project based in **_Quantum Computing_** and **_Quantum Information Science_**. This project was built using [**_Java_**](https://www.java.com/) and [**_JUnit_**](https://junit.org/). The [**_QuISL (Quantum Information Science Library)_**](https://quisl-framework.github.io/) is a [**_Java_**](https://www.java.com/) **_Library (or Toolbox/Framework)_**, _which will act as_ **_Simulator_** _of this new technology_, as also, _will allow to build and study_ **_Quantum Circuits_**, **_Quantum Algorithms_**, among many others, using a **_Object-Oriented Language_**, such as [**_Java_**](https://www.java.com/) **_Programming Language_**.
 
-> I've never seen a more mediocre theme it actually hurts my insides.
+> The history of the Universe is, in effect, a huge and ongoing Quantum Computation. The Universe is a Quantum Computer.
 >
-> ~ _Anonymous_, 2020
+> ~ _Seth Lloyd_
 
 This theme is designed for writing documentation websites instead of having large unmaintainable README files or several markdown files inside of a folder in a repository.
 
