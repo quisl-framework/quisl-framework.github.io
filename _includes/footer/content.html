@@ -23,25 +23,6 @@
                     </li>
                 {% endif %}
                 <br />
-                {% if site.social.twitter.enabled %}
-                    <li class="list-inline-item">
-                        <a
-                            href="https://twitter.com/share"
-                            class="twitter-share-button"
-                            data-url="{{ site.github.url }}"
-                            data-count="horizontal"
-                            data-via="{{ site.social.twitter.via }}"
-                            data-text="{{ site.name }}"
-                            data-hashtags="{{ site.social.twitter.hash }}"
-                        >
-                            {% include fa-icon.html
-                                 icon=twiter.icon
-                                 brand=twitter.brand
-                            %}
-                            <span>Tweet</span>
-                        </a>
-                    </li>
-                {% endif %}
                 {% if site.twitter.account %}
                     <li class="list-inline-item">
                         <a
