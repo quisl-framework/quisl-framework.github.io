@@ -2,7 +2,7 @@
 layout: full
 homepage: true
 disable_anchors: true
-description: A Java Library for Quantum and Quantum Information Science
+description: A Java Library for Quantum Computing and Quantum Information Science
 ---
 
 A project based in **_Quantum Computing_** and **_Quantum Information Science_**. This project was built using [**_Java_**](https://www.java.com/) and [**_JUnit_**](https://junit.org/). The [**_QuISL (Quantum Information Science Library)_**](https://quisl-framework.github.io/) is a [**_Java_**](https://www.java.com/) **_Library (or Toolbox/Framework)_**, _which will act as_ **_Simulator_** _of this new technology_, as also, _will allow to build and study_ **_Quantum Circuits_**, **_Quantum Algorithms_**, among many others, using a **_Object-Oriented Language_**, such as [**_Java_**](https://www.java.com/) **_Programming Language_**.
