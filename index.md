@@ -62,13 +62,15 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
         * ##### Quantum Mapping
         
-            * Deutsch–Jozsa Algorithm
+            * Deutsch–Jozsa's Algorithm
             
             * Simon's Algorithm
 
         * ##### Quantum Optimisation
         
             * Grover's Algorithm
+        
+            * Quantum Counting's Algorithm
 
         * ##### Quantum Factorisation
         
