@@ -55,23 +55,23 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
     * All the **_Quantum Operations/Logic Gates_** necessary for the building of custom **_Quantum Circuits_** and **_Quantum Algorithms_**, are available.
 
-#### Quantum Fundamental Principles
+* #### Quantum Fundamental Principles
 
-The well known **_Quantum Fundamental Principles_**, such as, **_Quantum Superposition of States_**, **_Quantum Entanglement of States_**, **_Quantum Measurement of States_**, **_Quantum Parallelism_**, **_Existence of Quantum Multiverse_**, among many others, are available.
+    * The well known **_Quantum Fundamental Principles_**, such as, **_Quantum Superposition of States_**, **_Quantum Entanglement of States_**, **_Quantum Measurement of States_**, **_Quantum Parallelism_**, **_Existence of Quantum Multiverse_**, among many others, are available.
 
-#### Quantum Demonstrations
+* #### Quantum Demonstrations
 
-Some practical examples, such as, **_Schrödinger's Cat_**, **_Quantum Coin Toss_**, **_Bell State_**, **_GHZ State_**, **_Quantum Teleportation_**, **_Superdense Coding_**, among many others, are available, through simple demonstrations.
+    * Some practical examples, such as, **_Schrödinger's Cat_**, **_Quantum Coin Toss_**, **_Bell State_**, **_GHZ State_**, **_Quantum Teleportation_**, **_Superdense Coding_**, among many others, are available, through simple demonstrations.
 
-#### Quantum Algorithms
+* #### Quantum Algorithms
 
-* ##### Quantum Mapping
+    * ##### Quantum Mapping
 
-* ##### Quantum Optimisation
+    * ##### Quantum Optimisation
 
-* ##### Quantum Factorisation
+    * ##### Quantum Factorisation
 
-##### Quantum Cryptography
+    * ##### Quantum Cryptography
 
 </div>
 </div>
