@@ -59,8 +59,8 @@ ui:
 
 social:
   github:
-    user: rubenandrebarreiro
-    repo: 
+    user: quisl-framework
+    repo: QuISL
   twitter:
     enabled: true
     via:
