@@ -41,7 +41,7 @@ Not available yet.
 
 ### Creative Commons
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" href="https://quisl-framework.github.io/"><span rel="dct:title">QuISL(Quantum Information Science Library)</span></a> by <a rel="cc:attributionURL" href="https://rubenandrebarreiro.github.io/"><span rel="cc:attributionName">Rúben André Barreiro</span></a>CC BY-NC-ND 4.0<a href="https://creativecommons.org/licenses/by-nc-nd/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg/?ref=chooser-v1" /></a></p>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ### SHA-512 Digital Signature
 
