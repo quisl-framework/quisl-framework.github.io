@@ -2,8 +2,6 @@
     {% if site.social %}
         <div class="site-footer__social-links">
             <ul class="list-inline mb-2">
-                Made with ❤ by <b>Rúben André Barreiro</b> and hosted @ <b>GitHub Pages</b>.
-                <br />
                 {% if site.social.github.user and site.social.github.repo %}
                     <li class="list-inline-item">
                         <iframe
@@ -36,7 +34,11 @@
                             data-text="{{ site.name }}"
                             data-hashtags="{{ site.social.twitter.hash }}"
                         >
-                            Tweet
+                            {% include fa-icon.html
+                                 icon=twiter.icon
+                                 brand=twitter.brand
+                            %}
+                            <span>Tweet</span>
                         </a>
                     </li>
                 {% endif %}
@@ -132,4 +134,9 @@
             </div>
         </div>
     </div>
+    
+    <br />
+    <br />
+    
+    Made with ❤ by <b>Rúben André Barreiro</b> and hosted @ <b>GitHub Pages</b>.
 </div>
