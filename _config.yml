@@ -82,3 +82,6 @@ exclude:
   - LICENSE.md
   - README.md
   - screenshot.png
+
+theme: jekyll-docs-theme
+remote_theme: allejo/jekyll-docs-theme@v1.0.0
