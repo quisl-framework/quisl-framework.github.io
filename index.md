@@ -39,7 +39,7 @@ Not available yet.
 ## License
 {:.mt-lg-0}
 
-Not available yet.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" href="https://quisl-framework.github.io/"><span rel="dct:title"><b>QuISL(Quantum Information Science Library)</b></span></a> by <a rel="cc:attributionURL" href="https://rubenandrebarreiro.github.io/"><span rel="cc:attributionName"><b>Rúben André Barreiro</b></span></a>CC BY-NC-ND 4.0<a href="https://creativecommons.org/licenses/by-nc-nd/4.0"><img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg/?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg/?ref=chooser-v1" /></a></p>
 
 </div>
 <div class="col-lg-6" markdown="1">
