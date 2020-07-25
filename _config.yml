@@ -32,10 +32,10 @@ links:
     - title: Issues
       icon: bug
       url: https://github.com/quisl-framework/QuISL/issues?state=open
-  - title: Tweet &amp; Share
-    icon: twitter
-    brand: true
-    url: https://twitter.com/intent/tweet?text=Check%20out%20the%20QuISL%20Framework%20https://quisl-framework.github.io/
+    - title: Tweet &amp; Share
+      icon: twitter
+      brand: true
+      url: https://twitter.com/intent/tweet?text=Check%20out%20the%20QuISL%20Framework%20https://quisl-framework.github.io/
 
 ui:
   mode: 'auto' # 'auto', 'dark', 'light'
