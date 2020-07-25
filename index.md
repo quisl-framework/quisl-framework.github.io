@@ -49,20 +49,29 @@ remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
 ## Features
 {:.mt-lg-0}
 
-Despite being a mediocre theme, we've got a features that we're especially proud of and dedicate a lot of our time to making sure they work as expected.
+Several features are approached in this [**_Java_**] **_Library_** for **_Quantum Computing_** and **_Quantum Information Science_**, such as:
 
-### Graceful Degradation
+#### Quantum Operations/Logic Gates
 
-This theme uses as little JavaScript as possible. All of our anchors and table of contents are generated at build time. Any features that rely on JavaScript have fallbacks for graceful degradation. It's how the web should be nowadays.
+All the **_Quantum Operations/Logic Gates_** necessary for the building of custom **_Quantum Circuits_** and **_Quantum Algorithms_**, are available.
 
-### Heavily Customizable
+#### Quantum Fundamental Principles
 
-A lot of parts in these theme consist of empty Jekyll includes that are designed to be overridden by website owners. Inject your custom code easily to any part of the website!
+The well known **_Quantum Fundamental Principles_**, such as, **_Quantum Superposition of States_**, **_Quantum Entanglement of States_**, **_Quantum Measurement of States_**, **_Quantum Parallelism_**, **_Existence of Quantum Multiverse_**, among many others, are available.
 
-### Dark Mode
+#### Quantum Demonstrations
 
-We all know that dark mode makes you a better human. This theme supports a dark mode based on each user's preference.
+Some practical examples, such as, **_Schrödinger's Cat_**, **_Quantum Coin Toss_**, **_Bell State_**, **_GHZ State_**, **_Quantum Teleportation_**, **_Superdense Coding_**, among many others, are available, through simple demonstrations.
+
+#### Quantum Algorithms
+
+##### Quantum Mapping
+
+##### Quantum Optimisation
+
+##### Quantum Factorisation
+
+##### Quantum Cryptography
 
 </div>
 </div>
-
