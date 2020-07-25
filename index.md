@@ -51,9 +51,9 @@ remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
 
 Several features are approached in this [**_Java_**] **_Library_** for **_Quantum Computing_** and **_Quantum Information Science_**, such as:
 
-    #### Quantum Operations/Logic Gates
+* #### Quantum Operations/Logic Gates
 
-    All the **_Quantum Operations/Logic Gates_** necessary for the building of custom **_Quantum Circuits_** and **_Quantum Algorithms_**, are available.
+    * All the **_Quantum Operations/Logic Gates_** necessary for the building of custom **_Quantum Circuits_** and **_Quantum Algorithms_**, are available.
 
 #### Quantum Fundamental Principles
 
