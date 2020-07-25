@@ -1,6 +1,6 @@
 ---
 layout: page
 number: 1
-title: Introduction
+title: Intro
 description: ~
 ---
