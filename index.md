@@ -5,7 +5,7 @@ disable_anchors: true
 description: A Java Library for Quantum Computing
 ---
 
-A Jekyll theme inspired by Bootstrap's official documentation theme from a few years back. This theme started off by stealing all of Bootstrap Docs' CSS and being used in [mistic100's theme](https://github.com/mistic100/jekyll-bootstrap-doc). This theme has since be rewritten from scratch and remains solely inspired by the original design.
+A project based in **_Quantum Computing_** and Quantum Information Science. This project was built using Java and JUnit. The QuISL (Quantum Information Science Library) is a Java Library (or Toolbox/Framework), which will act as Simulator of this new technology, as also, will allow to build and study Quantum Circuits, Quantum Algorithms, among many others, using a Object-Oriented Language, such as Java Programming Language.
 
 > I've never seen a more mediocre theme it actually hurts my insides.
 >
