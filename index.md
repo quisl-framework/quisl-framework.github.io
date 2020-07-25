@@ -5,7 +5,7 @@ disable_anchors: true
 description: A Java Library for Quantum Computing
 ---
 
-A project based in **_Quantum Computing_** and Quantum Information Science. This project was built using Java and JUnit. The QuISL (Quantum Information Science Library) is a Java Library (or Toolbox/Framework), which will act as Simulator of this new technology, as also, will allow to build and study Quantum Circuits, Quantum Algorithms, among many others, using a Object-Oriented Language, such as Java Programming Language.
+A project based in **_Quantum Computing_** and **_Quantum Information Science_**. This project was built using [**_Java_**](https://www.java.com/) and [**_JUnit_**](https://junit.org/). The [**_QuISL (Quantum Information Science Library)_**](https://quisl-framework.github.io/) is a [**_Java_**](https://www.java.com/) **_Library (or Toolbox/Framework)_**, _which will act as_ **_Simulator_** _of this new technology_, as also, _will allow to build and study_ **_Quantum Circuits_**, **_Quantum Algorithms_**, among many others, using a **_Object-Oriented Language_**, such as [**_Java_**](https://www.java.com/) **_Programming Language_**.
 
 > I've never seen a more mediocre theme it actually hurts my insides.
 >
