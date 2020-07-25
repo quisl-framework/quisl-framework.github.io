@@ -62,71 +62,72 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
         * ##### Quantum Mapping
         
-            * Deutsch–Jozsa's Algorithm
+            * **_Deutsch–Jozsa's Algorithm_**
             
-            * Simon's Algorithm
+            * **_Simon's Algorithm_**
 
         * ##### Quantum Optimisation
         
-            * Grover's Algorithm
+            * **_Grover's Algorithm_**
         
-            * Quantum Counting's Algorithm
+            * **_Quantum Counting's Algorithm_**
 
         * ##### Quantum Factorisation
         
-            * Shor's Algorithm
+            * **_Shor's Algorithm_**
 
         * ##### Post-Quantum Cryptography
 
-            * Lattice-Based Cryptography
+            * **_Lattice-Based Cryptography
 
-            * Hash-Based Cryptography
+            * **_Hash-Based Cryptography_**
 
-            * Code-Based Cryptography
+            * **_Code-Based Cryptography_**
 
-            * Multivariate Cryptography
+            * **_Multivariate Cryptography_**
             
         * ##### Quantum Cryptography
         
-            * **_QKDs (Quantum Key Distributions)_**:
+            * **_QKDs (Quantum Key Distributions)_**
             
-                * **_Polarization-Based_**:
+                * **_Polarization-Based_**
                 
-                    * BB84 Protocol
+                    * **_BB84 Protocol_**
                     
-                    * T12 Protocol
+                    * **_T12 Protocol_**
                     
-                    * Decoy State Protocol
+                    * **_Decoy State Protocol_**
                     
-                    * SARG04 Protocol
+                    * **_SARG04 Protocol_**
                     
-                    * Six-State Protocol
+                    * **_Six-State Protocol_**
                     
-                    * B92 Protocol
+                    * **_B92 Protocol_**
             
-                * **_Entanglement-Based_**:
+                * **_Entanglement-Based_**
                 
-                    * E91 Protocol
+                    * **_E91 Protocol_**
                     
-                    * BBM92 Protocol
+                    * **_BBM92 Protocol_**
             
-                * **_Others_**:
+                * **_Others_**
                 
-                    * MSZ96 Protocol
+                    * **_MSZ96 Protocol_**
                     
-                    * COW Protocol
+                    * **_COW Protocol_**
                     
-                    * DPS Protocol
+                    * **_DPS Protocol_**
                     
-                    * KMB09 Protocol
+                    * **_KMB09 Protocol_**
                     
-                    * HDQKD Protocol (High-Dimensional Quantum Key Distribution)
+                    * **_HDQKD Protocol (High-Dimensional Quantum Key Distribution)_**
                     
-            * **_Full Quantum Cryptography Protocols_**:
+            * **_Full Quantum Cryptography Protocols_**
             
-                * **_Three-Stage Quantum Cryptography Protocol_**:
+                * **_Three-Stage Quantum Cryptography Protocol_**
                 
         * ##### Quantum Solving
+            * **_HHL Algorithm_**
         
 * #### Quantum Applications
 
