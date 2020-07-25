@@ -79,7 +79,7 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
         
             * **_Quantum Random Number Generation_**
 
-        * ##### Quantum Factorisation
+        * ##### Quantum Factoring
         
             * **_Shor's Algorithm_**
 
