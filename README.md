@@ -1,1 +1,1 @@
-# quantum-information-science-toolbox.github.io
+# quisl.github.io
