@@ -36,6 +36,11 @@ Not available yet.
 
 Not available yet.
 
+## Donate
+{:.mt-lg-0}
+
+Not available yet.
+
 ## License
 {:.mt-lg-0}
 
