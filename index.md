@@ -40,8 +40,6 @@ Not available yet.
 {:.mt-lg-0}
 
 If you want to make a <u><i>contribution</i></u> or a <u><i>donation</i></u>, click on the following <u><i><b>PapyPal</b></i>'s <u><i>Donate Button</i></u>.
-    
-<br />
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick" />
@@ -49,6 +47,8 @@ If you want to make a <u><i>contribution</i></u> or a <u><i>donation</i></u>, cl
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_PT/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+<br />
 
 ## License
 {:.mt-lg-0}
