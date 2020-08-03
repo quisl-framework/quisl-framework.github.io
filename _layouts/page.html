@@ -1,41 +1,46 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <link rel="shortcut icon" href="assets/imgs/pngs/quisl-logo-1.png">
+    </head>
+    <div class="container">
+        <div class="row">
+            <main class="col-md-9 layout-page__main">
+                <section class="mobile-toc border mb-3 p-3 d-md-none">
+                    <div class="d-flex align-items-center">
+                        <h2 class="mb-0">Table of Contents</h2>
 
-<div class="container">
-    <div class="row">
-        <main class="col-md-9 layout-page__main">
-            <section class="mobile-toc border mb-3 p-3 d-md-none">
-                <div class="d-flex align-items-center">
-                    <h2 class="mb-0">Table of Contents</h2>
+                        <button
+                            class="js-only ml-2 toggle-toc"
+                            aria-controls="mobileTOC"
+                            aria-label="Toggle table of contents"
+                            aria-expanded="true"
+                        >
+                            <span aria-hidden="true" data-role="toggle">Hide</span>
+                        </button>
+                    </div>
 
-                    <button
-                        class="js-only ml-2 toggle-toc"
-                        aria-controls="mobileTOC"
-                        aria-label="Toggle table of contents"
-                        aria-expanded="true"
-                    >
-                        <span aria-hidden="true" data-role="toggle">Hide</span>
-                    </button>
-                </div>
+                    {% include jekyll-docs-theme/toc.html
+                         class="js-toc.mb-0.mt-2"
+                         id="mobileTOC"
+                    %}
+                </section>
 
-                {% include jekyll-docs-theme/toc.html
-                     class="js-toc.mb-0.mt-2"
-                     id="mobileTOC"
-                %}
-            </section>
+                <section class="scope-markdown">
+                    {% include jekyll-docs-theme/anchor_headings.html %}
+                </section>
+            </main>
 
-            <section class="scope-markdown">
-                {% include jekyll-docs-theme/anchor_headings.html %}
-            </section>
-        </main>
+            <aside class="col-md-3 layout-page__sidebar d-none d-md-block hidden-print">
+                {% include sidebar/content-pre.html %}
+                {% include sidebar/content.html %}
+                {% include sidebar/content-pre.html %}
+            </aside>
+        </div>
 
-        <aside class="col-md-3 layout-page__sidebar d-none d-md-block hidden-print">
-            {% include sidebar/content-pre.html %}
-            {% include sidebar/content.html %}
-            {% include sidebar/content-pre.html %}
-        </aside>
+        {% include disqus.html %}
     </div>
-
-    {% include disqus.html %}
-</div>
+</html>
