@@ -2,7 +2,7 @@
 name: QuISL (Quantum Information Science Library)
 
 project:
-  version: 1.0.0
+  version: 0.0.1
   download_url: https://github.com/quisl-framework/QuISL/releases
   download_text: Download
 
