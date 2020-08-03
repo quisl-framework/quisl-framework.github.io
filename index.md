@@ -5,10 +5,10 @@ disable_anchors: true
 description: Java, Python and MATLAB Libraries for Quantum Computing and Quantum Information Science
 ---
 <html>
-
 <head>
     <link rel="shortcut icon" href="assets/imgs/pngs/quisl-logo-1.png">
 </head>
+</html>
 
 A project based in **_Quantum Computing_** and **_Quantum Information Science_**. This project was built using [**_Java_**](https://www.java.com/), [**_Python_**](https://www.python.org/) and [**_MATLAB_**](https://www.mathworks.com/products/matlab.html). The [**_QuISL (Quantum Information Science Library)_**](https://quisl-framework.github.io/) is a family of [**_Java_**](https://www.java.com/), [**_Python_**](https://www.python.org/) and [**_MATLAB_**](https://www.mathworks.com/products/matlab.html) **_Libraries (or Toolboxes/Frameworks)_**, _which will act as_ **_Simulator_** _of this new technology_, as also, _will allow to build and study_ **_Quantum Circuits_**, **_Quantum Algorithms_**, among many others, using a **_Object-Oriented Language_**, such as [**_Java_**](https://www.java.com/) **_Programming Language_**.
 
@@ -182,5 +182,3 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
 </div>
 </div>
-
-</html>
