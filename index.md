@@ -4,6 +4,8 @@ homepage: true
 disable_anchors: true
 description: Java, Python and MATLAB Libraries for Quantum Computing and Quantum Information Science
 ---
+<html>
+
 <head>
     <link rel="shortcut icon" href="assets/imgs/pngs/quisl-logo-1.png">
 </head>
@@ -180,3 +182,5 @@ Several features are approached in this [**_Java_**](https://www.java.com/) **_L
 
 </div>
 </div>
+
+</html>
