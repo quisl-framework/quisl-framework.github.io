@@ -4,3 +4,9 @@ number: 1
 title: Intro
 description: ~
 ---
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <link rel="shortcut icon" href="assets/imgs/pngs/quisl-logo-1.png">
+    </head>
+</html>
